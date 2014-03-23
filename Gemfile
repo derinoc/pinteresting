@@ -11,6 +11,7 @@ gem 'jbuilder', '~> 1.2'
 gem 'execjs'
 gem 'therubyracer'
 gem 'bootstrap-sass'
+gem 'devise', '~> 3.1.0.rc2'
 
 group :development, :test do
 	gem 'sqlite3'
